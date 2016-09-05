@@ -635,6 +635,9 @@ a {
   margin-bottom: 30px;
   width: 480px;
 }
+.product__information-ins{
+  display: none;
+}
 .product__information-more {
   border: 1px solid #f4f4f4;
   cursor: pointer;
